@@ -6,6 +6,7 @@ a rectangle has 4 point and you just can draw lines in vertical and horizontal w
 
 Example:
 We have here a 1x3 matrix.
+
 |1|2|3|
 |---|---|---|
 
