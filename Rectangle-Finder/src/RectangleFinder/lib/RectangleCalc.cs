@@ -1,4 +1,4 @@
-namespace rectangle_finder.lib
+namespace RectangleFinder.lib
 {
     public class RectangleCalc
     {

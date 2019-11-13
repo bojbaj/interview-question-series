@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <RootNamespace>rectangle_finder_test</RootNamespace>
+    <RootNamespace>RectangleFinder.Tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\rectangle-finder\rectangle-finder.csproj" />
+    <ProjectReference Include="..\..\src\RectangleFinder\RectangleFinder.csproj" />
   </ItemGroup>
 
 </Project>

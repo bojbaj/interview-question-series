@@ -1,8 +1,8 @@
 using System;
-using rectangle_finder.lib;
+using RectangleFinder.lib;
 using Xunit;
 
-namespace rectangle_finder_test
+namespace RectangleFinder.Tests
 {
     public class RectangleTest
     {

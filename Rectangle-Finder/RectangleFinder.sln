@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{995C9832-56F8-4579-9A8D-E358123E6416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle-finder", "src\rectangle-finder\rectangle-finder.csproj", "{18A1ECB9-656C-4B82-8F44-CDEE7E32975A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleFinder", "src\RectangleFinder\RectangleFinder.csproj", "{18A1ECB9-656C-4B82-8F44-CDEE7E32975A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6F682097-14DB-4419-B0B8-08BB38490A96}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6F682097-14DB-4419-B0B8-08BB38490A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle-finder-test", "test\rectangle-finder-test\rectangle-finder-test.csproj", "{441FCBDA-FE18-4647-A56E-F33AE9BE11F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleFinder.Tests", "tests\RectangleFinder.Tests\RectangleFinder.Tests.csproj", "{441FCBDA-FE18-4647-A56E-F33AE9BE11F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
