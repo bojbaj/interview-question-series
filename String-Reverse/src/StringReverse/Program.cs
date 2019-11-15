@@ -1,4 +1,5 @@
 ﻿using System;
+using StringReverse.lib;
 
 namespace Stringreverse
 {
@@ -6,7 +7,8 @@ namespace Stringreverse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StringUtility utils = new StringUtility();
+            Console.WriteLine(utils.Reverse("Hello"));
         }
     }
 }
