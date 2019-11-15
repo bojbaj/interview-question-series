@@ -29,7 +29,7 @@ namespace DeletionDistance.lib
                 return word1.Length - match.Length
                         + word2.Length - match.Length;
 
-            return word1.Length + word2.Length; ;
+            return word1.Length + word2.Length;
         }
         private List<string> findSubWords(string word)
         {
