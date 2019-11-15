@@ -10,3 +10,4 @@ You can open an issue and tell me about a problem and I'm gonna solve that and a
 ### Problems:
 - [Rectangle Finder](https://github.com/bojbaj/interview-question-series/tree/master/Rectangle-Finder)
 - [Deletion Distance](https://github.com/bojbaj/interview-question-series/tree/master/Deletion-Distance)
+- [String Reverse](https://github.com/bojbaj/interview-question-series/tree/master/String-Reverse)
