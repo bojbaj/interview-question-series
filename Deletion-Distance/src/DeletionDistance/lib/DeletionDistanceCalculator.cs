@@ -12,7 +12,7 @@ namespace DeletionDistance.lib
 
             // if one of two strings has zero length
             if (word1.Length == 0 || word2.Length == 0)
-                return word1.Length + word1.Length;
+                return word1.Length + word2.Length;
 
             // if first word length is greater than second word, we should swap words
             // because we want to find all possible sub words in smaller word.
